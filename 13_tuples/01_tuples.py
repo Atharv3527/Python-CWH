@@ -11,3 +11,5 @@ print(a)
 print(a[2])
 a[3] = 32
 # cannot be changed->tuple object does not support item assignment
+print()
+print
